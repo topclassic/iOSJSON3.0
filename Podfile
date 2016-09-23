@@ -7,4 +7,5 @@ target 'iOSJSON3.0' do
 
   # Pods for iOSJSON3.0
 	pod 'Alamofire', '~> 4.0'
+	pod 'SwiftyJSON', '~> 3.0'
 end
